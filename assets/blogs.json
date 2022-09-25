@@ -1,0 +1,7 @@
+[
+    {
+        "headline": "Database",
+        "title": " Building microservices with Dropwizard, MongoDB & Docker",
+        "body": "This NoSQL database oriented to documents (by documents like JSON) combines some of the features from relational databases, easy to use and the multi-platform is the best option for scale up and have fault tolerance, load balancing, map reduce, etc."
+    }
+]
